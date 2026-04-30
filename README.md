@@ -67,24 +67,11 @@ is a high-fidelity representation of the original 784-dimensional space.
 
 
 # 5. Comparative Results & Performance Metrics
-
-Metric   
-Baseline (Raw)
-PCA Optimized
-Improvement
-Feature Count
-784
-30 
-96.2% Compression
-Training Time
-5.79s
-0.89s
-7x Speed Increase
-Accuracy
-89.95%
-89.95%
-0% Accuracy Los
-
+| Metric         | Baseline (Raw) | PCA Optimized | Improvement           |
+|:--------------:|:--------------:|:--------------:|:---------------------:|
+| Feature Count  | 784            | 30             | 96.2% Compression     |
+| Training Time  | 5.79s          | 0.89s          | 7x Speed Increase     |
+| Accuracy       | 89.95%         | 89.95%         | 0% Accuracy Loss      |
 
 
 
