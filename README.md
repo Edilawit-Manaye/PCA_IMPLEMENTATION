@@ -13,6 +13,10 @@ This work demonstrates the power of Principal Component Analysis (PCA) as a tool
     distribution (0-9) and showed that the "Spatial Signal" is concentrated in
     the center of the frame, justifying the removal of low-variance edge pixels.
   - Standardization: Applied Z-score normalization to ensure the covariance matrix calculation   was not biased by pixel intensity scales.
+    <img width="859" height="393" alt="image" src="https://github.com/user-attachments/assets/552f60ad-6b40-4d20-9c29-4509072905f7" />
+
+    
+  
 
 
 # 3. Mathematical Methodology (Manual Implementation)
